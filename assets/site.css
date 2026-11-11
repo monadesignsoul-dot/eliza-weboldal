@@ -14,4 +14,6 @@ html{overflow-x:clip}body{overflow-wrap:break-word}button{border:0}button,input,
 
 .footer h2.footer-heading{font-family:var(--font-body);font-size:13px;font-weight:500;line-height:1.5;text-transform:uppercase;letter-spacing:.08em;margin-bottom:24px}.contact-form h2.form-title{font-size:28px;font-weight:600;line-height:1.2;margin-bottom:16px}@media(max-width:760px){.footer h2.footer-heading{font-size:12px;margin-bottom:20px}.contact-form h2.form-title{font-size:24px}}
 
+.privacy-content{max-width:850px;padding-block:64px}.privacy-content h1{font-size:clamp(36px,6vw,56px);line-height:1.15;margin-bottom:32px}.privacy-content h2{font-size:30px;margin:40px 0 16px}.privacy-content p{margin-bottom:20px}.privacy-content a{text-decoration:underline;text-underline-offset:3px}
+
 .contact-form .btn:disabled{opacity:.65;cursor:wait;transform:none}.form-status[data-state="error"]{color:var(--color-brand-secondary)}.form-status[data-state="success"]{color:var(--color-brand-primary)}
